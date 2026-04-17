@@ -1,3 +1,8 @@
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/69c16bac-4ab3-4b2d-97ef-7a229e669800" />
+
+
+
+
 <h1 align="center">👋 Hi, I'm Nivetha</h1>
 <h3 align="center">Data Science | Python | SQL | Machine Learning | GCP</h3>
 
